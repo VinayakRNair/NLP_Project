@@ -166,7 +166,7 @@ print('*'*100)
 
 testsize=0.4
 print('with TESTSIZE={}-------'.format(testsize))
-file_path = 'cooking1222.train'
+file_path = 'cooking.train'
 
 # Get data
 p1 = r"Newsela_categorized"
