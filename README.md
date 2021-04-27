@@ -22,17 +22,17 @@ The project was tested in Python 3.7.1. to match the Python version used in Goog
 - tensorflow
 - fasttext
 - sklearn
-- torch<br/>
+- torch<!-- end of the list -->
 **Data Management**
 - pandas
 - numpy
-- scipy<br/>
+- scipy<!-- end of the list -->
 **Plotting**
 - matplotlib
 - tabulate
-- seaborn<br/>
+- seaborn<!-- end of the list -->
 **NLP**
-- nltk
+- nltk<!-- end of the list -->
 
 ## Getting Started
 Create a new virtual environment and activate it by executing activate.bat
