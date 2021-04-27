@@ -22,21 +22,17 @@ transformers<br/>
 tensorflow<br/>
 fasttext<br/>
 torch<br/>
-<br/>
 ### Data Management
 scipy<br/>
 pandas<br/>
 numpy<br/>
-<br/>
 ### Plotting
 sklearn<br/>
 matplotlib<br/>
 seaborn<br/>
 tabulate<br/>
-<br/>
 ### NLP
 nltk<br/>
-<br/>
 
 ## Getting Started
 Create a new virtual environment and activate it by executing activate.bat
