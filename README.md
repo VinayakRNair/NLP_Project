@@ -21,16 +21,16 @@ The project was tested in Python 3.7.1. to match the Python version used in Goog
 transformers<br/>
 tensorflow<br/>
 fasttext<br/>
+sklearn<br/>
 torch<br/>
 **Data Management**<br/>
-scipy<br/>
 pandas<br/>
 numpy<br/>
+scipy<br/>
 **Plotting**<br/>
-sklearn<br/>
 matplotlib<br/>
-seaborn<br/>
 tabulate<br/>
+seaborn<br/>
 **NLP**<br/>
 nltk<br/>
 
