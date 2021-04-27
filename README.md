@@ -22,15 +22,15 @@ The project was tested in Python 3.7.1. to match the Python version used in Goog
 - tensorflow
 - fasttext
 - sklearn
-- torch
+- torch<br/>
 **Data Management**
 - pandas
 - numpy
-- scipy
+- scipy<br/>
 **Plotting**
 - matplotlib
 - tabulate
-- seaborn
+- seaborn<br/>
 **NLP**
 - nltk
 
